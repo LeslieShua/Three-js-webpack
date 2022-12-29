@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.115.0"
+    "normalize.css": "^8.0.1",
+    "three": "^0.148.0"
   },
   "devDependencies": {
     "prettier": "^2.0.4",
